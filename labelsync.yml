@@ -88,9 +88,9 @@ repos:
       scope/cicd:
         color: 8cdeff
       type/design:
-        color: eee
+        color: FFCF2D
       type/epic:
-        color: eee
+        color: FFCF2D
       note/regression:
         color: EEEEEE
       scope/app:
@@ -132,5 +132,7 @@ repos:
         color: 8cdeff
       scope/testing:
         color: 8cdeff
-      status/blocked:
-        color: eee
+      scope/docs/recipe:
+        color: 8cdeff
+      scope/docs/inline:
+        color: 8cdeff

@@ -7,9 +7,9 @@ export default repos([
     destroyUnknownLabels: false,
     labels: [
       ...commonLabels,
-      type('design', '#eee', ''),
-      type('epic', '#eee', ''),
-      type('epic', '#eee', ''),
+      type('design', '#FFCF2D', ''),
+      type('epic', '#FFCF2D', ''),
+      type('epic', '#FFCF2D', ''),
       note('regression', ''),
       scope('app',       ''),
       scope('cli/create', ''),
@@ -32,7 +32,8 @@ export default repos([
       scope('server', ''),
       scope('settings', ''),
       scope('testing', ''),
-      {name:'status/blocked',color:"#eee"},
+      scope('docs/recipe', ''),
+      scope('docs/inline', '')
     ]
   },
 ])
