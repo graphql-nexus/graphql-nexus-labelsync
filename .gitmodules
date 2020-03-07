@@ -1,0 +1,3 @@
+[submodule "prisma-labs-labelsync"]
+	path = prisma-labs-labelsync
+	url = https://github.com/prisma-labs/prisma-labs-labelsync
