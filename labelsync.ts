@@ -30,10 +30,12 @@ export default repos([
       scope('schema-context', ''),
       scope('schema', 'Related to the @nexus/schema component or its usage in framework'),
       scope('server', ''),
+      scope('deployment', ''),
       scope('settings', ''),
       scope('testing', ''),
       scope('docs/recipe', ''),
-      scope('docs/inline', '')
+      scope('docs/inline', ''),
+      { name: 'plugin/prisma', color: '#eee' },
     ]
   },
 ])
