@@ -95,7 +95,7 @@ repos:
         color: EEEEEE
       scope/app:
         color: 8cdeff
-      scope/cli/craete:
+      scope/cli/create:
         color: 8cdeff
       scope/cli/dev:
         color: 8cdeff
