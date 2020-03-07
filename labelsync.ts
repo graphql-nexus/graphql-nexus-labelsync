@@ -1,4 +1,4 @@
-import { commonLabels, note, repos, scope, type } from './prisma-labs-labelsync/lib/core'
+import { commonLabels, note, repos, scope, theme, type } from './prisma-labs-labelsync/lib/core'
 
 //prettier-ignore
 export default repos([
@@ -7,9 +7,8 @@ export default repos([
     destroyUnknownLabels: false,
     labels: [
       ...commonLabels,
-      type('design', '#FFCF2D', ''),
-      type('epic', '#FFCF2D', ''),
-      type('epic', '#FFCF2D', ''),
+      type('design', theme.shiny, ''),
+      type('epic', theme.social, ''),
       note('regression', ''),
       scope('app',       ''),
       scope('cli/create', ''),
