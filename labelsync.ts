@@ -28,6 +28,7 @@ export default repos([
       scope('plugins', ''),
       scope('schema-context', ''),
       scope('schema', 'Related to the @nexus/schema component or its usage in framework'),
+      scope('schema/backing-types'),
       scope('server', ''),
       scope('deployment', ''),
       scope('settings', ''),

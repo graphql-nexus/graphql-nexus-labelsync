@@ -126,6 +126,8 @@ repos:
       scope/schema:
         color: 94ebfc
         description: Related to the @nexus/schema component or its usage in framework
+      scope/schema/backing-types:
+        color: 94ebfc
       scope/server:
         color: 94ebfc
       scope/deployment:
