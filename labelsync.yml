@@ -140,6 +140,9 @@ repos:
         color: 94ebfc
       scope/docs/inline:
         color: 94ebfc
+      scope/docs/examples:
+        color: 94ebfc
+        description: Related to the examples repo
       plugin/prisma:
         color: eee
   nexus-prisma:
