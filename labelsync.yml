@@ -145,6 +145,8 @@ repos:
         description: Related to the examples repo
       plugin/prisma:
         color: eee
+      platform/windows:
+        color: eee
   nexus-prisma:
     strict: false
     labels:

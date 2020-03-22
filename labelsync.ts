@@ -37,6 +37,7 @@ export default repos([
       scope('docs/inline', ''),
       scope('docs/examples', 'Related to the examples repo'),
       { name: 'plugin/prisma', color: '#eee' },
+      { name: 'platform/windows', color: '#eee' },
     ]
   },
   {
