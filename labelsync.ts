@@ -38,6 +38,8 @@ export default repos([
       scope('docs/examples', 'Related to the examples repo'),
       { name: 'plugin/prisma', color: '#eee' },
       { name: 'platform/windows', color: '#eee' },
+      { name: 'platform/macos', color: '#eee' },
+      { name: 'platform/linux', color: '#eee' },
     ]
   },
   {

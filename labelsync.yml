@@ -147,6 +147,10 @@ repos:
         color: eee
       platform/windows:
         color: eee
+      platform/macos:
+        color: eee
+      platform/linux:
+        color: eee
   nexus-prisma:
     strict: false
     labels:
