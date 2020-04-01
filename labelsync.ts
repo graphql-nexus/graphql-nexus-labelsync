@@ -1,4 +1,4 @@
-import { commonLabels, note, repos, scope, theme, type } from './prisma-labs-labelsync/lib/core'
+import { note, repos, scope, theme, type } from './prisma-labs-labelsync/lib/core'
 
 //prettier-ignore
 export default repos([
@@ -6,7 +6,6 @@ export default repos([
     name: 'nexus-future',
     destroyUnknownLabels: false,
     labels: [
-      ...commonLabels,
       type('design', theme.shiny, ''),
       type('epic', theme.social, ''),
       note('regression', ''),
@@ -18,8 +17,6 @@ export default repos([
       scope('autocomplete', ''),
       scope('db-workflow', ''),
       scope('core', ''),
-      scope('core', ''),
-      scope('deps', ''),
       scope('dev-mode', ''),
       scope('doctor', ''),
       scope('generate', ''),
@@ -46,7 +43,6 @@ export default repos([
     name: 'nexus-prisma',
     destroyUnknownLabels: false,
     labels: [
-      ...commonLabels,
       type('epic',            theme.social,   ''),
       type('meta',            theme.neutral,  ''),
       note('prisma1',                         'specific to the version of nexus-prisma based on Prisma 1'),
