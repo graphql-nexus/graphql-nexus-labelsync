@@ -136,7 +136,8 @@ repos:
       scope/scaffolding:
         color: '#94ebfc'
         description: ''
-        alias: []
+        alias:
+          - scope/cli/create
         siblings: []
       plugin/prisma:
         color: '#eee'
