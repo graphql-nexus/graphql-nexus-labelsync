@@ -23,11 +23,6 @@ repos:
         description: ''
         alias: []
         siblings: []
-      scope/cli/create:
-        color: '#94ebfc'
-        description: ''
-        alias: []
-        siblings: []
       scope/cli/dev:
         color: '#94ebfc'
         description: ''
@@ -136,6 +131,11 @@ repos:
       scope/docs/examples:
         color: '#94ebfc'
         description: Related to the examples repo
+        alias: []
+        siblings: []
+      scope/scaffolding:
+        color: '#94ebfc'
+        description: ''
         alias: []
         siblings: []
       plugin/prisma:
