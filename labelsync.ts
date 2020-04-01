@@ -32,7 +32,7 @@ export default repos([
       scope('docs/recipe', ''),
       scope('docs/inline', ''),
       scope('docs/examples', 'Related to the examples repo'),
-      scope('scaffolding', '', {aliases:['scope/cli/create']}),
+      scope('scaffolding', '', { aliases: ['scope/cli/create'] }),
       { name: 'plugin/prisma', color: '#eee' },
       { name: 'platform/windows', color: '#eee' },
       { name: 'platform/macos', color: '#eee' },
