@@ -3,7 +3,7 @@ import { note, repos, scope, theme, type } from './prisma-labs-labelsync/lib/cor
 //prettier-ignore
 export default repos([
   {
-    name: 'nexus-future',
+    name: 'nexus',
     destroyUnknownLabels: false,
     labels: [
       type('design', theme.shiny, ''),
@@ -40,7 +40,7 @@ export default repos([
     ]
   },
   {
-    name: 'nexus-prisma',
+    name: 'nexus-schema-plugin-prisma',
     destroyUnknownLabels: false,
     labels: [
       type('epic',            theme.social,   ''),

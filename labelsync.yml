@@ -1,5 +1,5 @@
 repos:
-  nexus-future:
+  nexus:
     config:
       removeUnconfiguredLabels: false
     labels:
@@ -312,7 +312,7 @@ repos:
         description: ''
         alias: []
         siblings: []
-  nexus-prisma:
+  nexus-schema-plugin-prisma:
     config:
       removeUnconfiguredLabels: false
     labels:
