@@ -60,5 +60,10 @@ export default repos([
       scope('typegen',                        'Relates to typegen/codegen systems'),
       scope('workflow'),
     ]
-  }  
+  },
+  {
+    name: "schema",
+    destroyUnknownLabels: false,
+    labels: []
+  }
 ])
