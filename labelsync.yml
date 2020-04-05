@@ -203,6 +203,11 @@ repos:
         description: 'Address tech debt, internal incidental complexity'
         alias: []
         siblings: []
+      type/deps:
+        color: '#fcaeec'
+        description: 'A dependency upgrade visible to users (so, not devDeps)'
+        alias: []
+        siblings: []
       type/question:
         color: '#7057ff'
         description: ''
@@ -440,6 +445,11 @@ repos:
         description: 'Address tech debt, internal incidental complexity'
         alias: []
         siblings: []
+      type/deps:
+        color: '#fcaeec'
+        description: 'A dependency upgrade visible to users (so, not devDeps)'
+        alias: []
+        siblings: []
       type/question:
         color: '#7057ff'
         description: ''
@@ -595,6 +605,11 @@ repos:
       type/refactor:
         color: '#fcaeec'
         description: 'Address tech debt, internal incidental complexity'
+        alias: []
+        siblings: []
+      type/deps:
+        color: '#fcaeec'
+        description: 'A dependency upgrade visible to users (so, not devDeps)'
         alias: []
         siblings: []
       type/question:
