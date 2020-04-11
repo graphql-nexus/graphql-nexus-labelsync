@@ -26,6 +26,7 @@ export default repos([
       scope('schema', 'Related to the @nexus/schema component or its usage in framework'),
       scope('schema/backing-types'),
       scope('server', ''),
+      scope('vscode', 'Related to integration with VSCode'),
       scope('deployment', ''),
       scope('settings', ''),
       scope('testing', ''),

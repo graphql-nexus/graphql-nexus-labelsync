@@ -103,6 +103,11 @@ repos:
         description: ''
         alias: []
         siblings: []
+      scope/vscode:
+        color: '#94ebfc'
+        description: Related to integration with VSCode
+        alias: []
+        siblings: []
       scope/deployment:
         color: '#94ebfc'
         description: ''
