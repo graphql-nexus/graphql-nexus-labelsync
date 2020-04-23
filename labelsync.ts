@@ -31,6 +31,7 @@ export default repos([
       scope('settings', ''),
       scope('testing', ''),
       scope('docs/recipe', ''),
+      scope('tsconfig', 'Related to interop with tsconfig settings/files'),
       scope('docs/inline', ''),
       scope('docs/examples', 'Related to the examples repo'),
       scope('scaffolding', '', { alias: ['scope/cli/create'] }),
