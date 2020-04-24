@@ -35,6 +35,7 @@ export default repos([
       scope('docs/inline', ''),
       scope('docs/examples', 'Related to the examples repo'),
       scope('scaffolding', '', { alias: ['scope/cli/create'] }),
+      scope('framework', 'Related to something affecting the entire tool e.g. add JS support'),
       { name: 'plugin/prisma', color: '#eee' },
       { name: 'platform/windows', color: '#eee' },
       { name: 'platform/macos', color: '#eee' },

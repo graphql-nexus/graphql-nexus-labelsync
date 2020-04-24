@@ -151,6 +151,11 @@ repos:
         alias:
           - scope/cli/create
         siblings: []
+      scope/framework:
+        color: '#94ebfc'
+        description: Related to something affecting the entire tool e.g. add JS support
+        alias: []
+        siblings: []
       plugin/prisma:
         color: '#eee'
         description: ''
