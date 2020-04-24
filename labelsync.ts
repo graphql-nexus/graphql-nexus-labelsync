@@ -7,7 +7,7 @@ export default repos([
     destroyUnknownLabels: false,
     labels: [
       type('design', theme.shiny, ''),
-      type('meta', theme.social, 'Related to something misc around the project e.g. brand, defining principals, ...'),
+      type('meta', theme.refine, 'Related to something misc around the project e.g. brand, defining principals, ...'),
       note('regression', ''),
       scope('app',       ''),
       scope('cli', ''),

@@ -9,7 +9,7 @@ repos:
         alias: []
         siblings: []
       type/meta:
-        color: '#7057ff'
+        color: '#fcaeec'
         description: >-
           Related to something misc around the project e.g. brand, defining
           principals, ...
