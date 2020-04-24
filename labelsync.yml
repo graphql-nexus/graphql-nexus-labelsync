@@ -23,11 +23,6 @@ repos:
         description: ''
         alias: []
         siblings: []
-      scope/cli/dev:
-        color: '#94ebfc'
-        description: ''
-        alias: []
-        siblings: []
       scope/cli:
         color: '#94ebfc'
         description: ''

@@ -10,7 +10,6 @@ export default repos([
       type('epic', theme.social, ''),
       note('regression', ''),
       scope('app',       ''),
-      scope('cli/dev', ''),
       scope('cli', ''),
       scope('builder', ''),
       scope('autocomplete', ''),
