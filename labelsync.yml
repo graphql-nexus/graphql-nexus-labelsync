@@ -128,6 +128,11 @@ repos:
         description: ''
         alias: []
         siblings: []
+      scope/auth:
+        color: '#94ebfc'
+        description: Related to authentication or authorization
+        alias: []
+        siblings: []
       scope/tsconfig:
         color: '#94ebfc'
         description: Related to interop with tsconfig settings/files
