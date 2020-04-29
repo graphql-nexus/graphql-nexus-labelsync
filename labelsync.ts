@@ -68,5 +68,10 @@ export default repos([
     name: "schema",
     destroyUnknownLabels: false,
     labels: []
+  },
+  {
+    name: "logger",
+    destroyUnknownLabels: true,
+    labels: []
   }
 ])
