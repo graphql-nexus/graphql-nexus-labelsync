@@ -40,6 +40,8 @@ export default repos([
       { name: 'platform/windows', color: '#eee' },
       { name: 'platform/macos', color: '#eee' },
       { name: 'platform/linux', color: '#eee' },
+      { name: 'component/schema', color: '#eee', description: 'Related to the @nexus/schema package' },
+      { name: 'component/logger', color: '#eee', description: 'Related to the @nexus/logger package' },
     ]
   },
   {
