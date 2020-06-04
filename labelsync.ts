@@ -34,6 +34,7 @@ export default repos([
       scope('tsconfig', 'Related to interop with tsconfig settings/files'),
       scope('docs/inline', ''),
       scope('docs/examples', 'Related to the examples repo'),
+      scope('website', 'Related to the website itself'),
       scope('scaffolding', '', { alias: ['scope/cli/create'] }),
       scope('framework', 'Related to something affecting the entire tool e.g. add JS support'),
       { name: 'plugin/prisma', color: '#eee' },
