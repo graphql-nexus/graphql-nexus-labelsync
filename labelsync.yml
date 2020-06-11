@@ -166,6 +166,16 @@ repos:
         description: ''
         alias: []
         siblings: []
+      lang/ts:
+        color: '#eee'
+        description: Related to TypeScript language interop
+        alias: []
+        siblings: []
+      lang/js:
+        color: '#eee'
+        description: Related to JavaScript language interop
+        alias: []
+        siblings: []
       platform/windows:
         color: '#eee'
         description: ''
