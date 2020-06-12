@@ -134,7 +134,8 @@ repos:
         color: '#94ebfc'
         description: Related to interop with tsconfig settings/files
         alias: []
-        siblings: []
+        siblings:
+          - lang/ts
       scope/docs/inline:
         color: '#94ebfc'
         description: ''
@@ -152,7 +153,7 @@ repos:
         siblings: []
       scope/scaffolding:
         color: '#94ebfc'
-        description: ''
+        description: Related to the generation of code to get things started faster
         alias:
           - scope/cli/create
         siblings: []
