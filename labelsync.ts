@@ -67,6 +67,7 @@ export default repos([
       scope('synchronized-projectors'),
       scope('typegen',                        'Relates to typegen/codegen systems'),
       scope('workflow'),
+      scope('pagination',                     'Relates to pagiantion at the GQL or Prisma level'),
     ]
   },
   {
