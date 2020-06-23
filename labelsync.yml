@@ -202,6 +202,11 @@ repos:
         description: Related to the @nexus/logger package
         alias: []
         siblings: []
+      theme/type-safety:
+        color: '#eee'
+        description: Related to type-safety
+        alias: []
+        siblings: []
       type/feat:
         color: '#3BDB8D'
         description: Add a new capability or enhance an existing one

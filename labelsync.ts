@@ -45,6 +45,7 @@ export default repos([
       { name: 'platform/linux',   color: '#eee' },
       { name: 'component/schema', color: '#eee', description: 'Related to the @nexus/schema package' },
       { name: 'component/logger', color: '#eee', description: 'Related to the @nexus/logger package' },
+      { name: 'theme/type-safety', color: '#eee', description: 'Related to type-safety' },
     ]
   },
   {
