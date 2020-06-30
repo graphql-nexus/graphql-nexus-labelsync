@@ -50,7 +50,7 @@ export default repos([
     ]
   },
   {
-    name: 'nexus-schema-plugin-prisma',
+    name: 'nexus-plugin-prisma',
     destroyUnknownLabels: false,
     labels: [
       type('epic',            theme.social,   ''),

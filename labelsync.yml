@@ -370,7 +370,7 @@ repos:
         description: ''
         alias: []
         siblings: []
-  nexus-schema-plugin-prisma:
+  nexus-plugin-prisma:
     config:
       removeUnconfiguredLabels: false
     labels:
