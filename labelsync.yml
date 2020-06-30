@@ -207,6 +207,11 @@ repos:
         description: Related to type-safety
         alias: []
         siblings: []
+      theme/feedback:
+        color: '#eee'
+        description: 'Related to better messages, errors, more contextual, etc.'
+        alias: []
+        siblings: []
       type/feat:
         color: '#3BDB8D'
         description: Add a new capability or enhance an existing one
