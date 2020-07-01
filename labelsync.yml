@@ -72,7 +72,7 @@ repos:
         siblings: []
       scope/logger:
         color: '#94ebfc'
-        description: ''
+        description: Related to the logger component
         alias: []
         siblings: []
       scope/plugins:
@@ -87,9 +87,15 @@ repos:
         siblings: []
       scope/schema:
         color: '#94ebfc'
-        description: Related to the @nexus/schema component or its usage in framework
+        description: Related to the schema component
         alias: []
         siblings: []
+      scope/schema/connection:
+        color: '#94ebfc'
+        description: Related to t.connection or relay connections generally
+        alias: []
+        siblings:
+          - schema
       scope/schema/backing-types:
         color: '#94ebfc'
         description: ''
@@ -97,7 +103,7 @@ repos:
         siblings: []
       scope/server:
         color: '#94ebfc'
-        description: ''
+        description: Related to the server component
         alias: []
         siblings: []
       scope/vscode:
@@ -138,7 +144,7 @@ repos:
           - lang/ts
       scope/docs/inline:
         color: '#94ebfc'
-        description: ''
+        description: Related to jsDoc
         alias: []
         siblings: []
       scope/docs/examples:
