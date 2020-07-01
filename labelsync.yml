@@ -95,7 +95,7 @@ repos:
         description: Related to t.connection or relay connections generally
         alias: []
         siblings:
-          - schema
+          - scope/schema
       scope/schema/backing-types:
         color: '#94ebfc'
         description: ''

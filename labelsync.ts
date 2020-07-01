@@ -23,7 +23,7 @@ export default repos([
       scope('plugins', ''),
       scope('schema-context', ''),
       scope('schema',             'Related to the schema component'),
-      scope('schema/connection',  'Related to t.connection or relay connections generally', { siblings: ['schema'] }),
+      scope('schema/connection',  'Related to t.connection or relay connections generally', { siblings: ['scope/schema'] }),
       scope('schema/backing-types'),
       scope('server',             'Related to the server component'),
       scope('vscode',             'Related to integration with VSCode'),
