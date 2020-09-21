@@ -12,7 +12,7 @@
     "label-sync": "3.1.15"
   },
   "devDependencies": {
-    "prettier": "2.1.1",
+    "prettier": "2.1.2",
     "ts-node": "8.10.2",
     "typescript": "3.9.7"
   },
