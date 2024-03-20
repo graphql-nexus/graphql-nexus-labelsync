@@ -12,9 +12,9 @@
     "label-sync": "3.1.15"
   },
   "devDependencies": {
-    "prettier": "2.1.2",
-    "ts-node": "8.10.2",
-    "typescript": "3.9.7"
+    "prettier": "3.2.5",
+    "ts-node": "10.9.2",
+    "typescript": "5.4.3"
   },
   "license": "MIT",
   "husky": {
